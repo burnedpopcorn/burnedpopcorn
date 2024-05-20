@@ -10,7 +10,7 @@ My somewhat finished Projects include:
 - Sonic 3 AIR Web Port
 
 Projects I'm working on
-- Super Mario 64 Plus Web Port
+- Super Mario 64 Plus Web Port (a PoC has been made)
 - Pizza Tower Cheesed Up Web Port (maybe)
 
 I also have some other random, miscellaneous projects which you can find in my Repositories Tab
