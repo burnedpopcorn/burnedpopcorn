@@ -8,6 +8,7 @@ My somewhat finished Projects include:
 - Pizza Tower 1.1.0 Web Port (Noise Update)
 - April 2021 Build of Pizza Tower (also a Web Port)
 - Sonic 3 AIR Web Port
+- EaglerCraft Client Selector (many different Clients included)
 
 Projects I'm working on
 - Super Mario 64 Plus Web Port (a PoC has been made)
