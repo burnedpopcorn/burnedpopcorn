@@ -1,16 +1,16 @@
-### Hi there 👋
+### So I exist...
 
-<!--
-**burnedpopcorn/burnedpopcorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+... And I mostly port games to the web browser
 
-Here are some ideas to get you started:
+Why? because school is boring as hell, why else
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My somewhat finished Projects include:
+- Pizza Tower 1.1.0 Web Port (Noise Update)
+- April 2021 Build of Pizza Tower (also a Web Port)
+- Sonic 3 AIR Web Port
+
+Projects I'm working on
+- Super Mario 64 Plus Web Port
+- Pizza Tower Cheesed Up Web Port (maybe)
+
+I also have some other random, miscellaneous projects which you can find in my Repositories Tab
