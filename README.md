@@ -8,6 +8,7 @@ My somewhat finished Projects include:
 - Pizza Tower 1.1.0 Web Port (Noise Update)
 - April 2021 Build of Pizza Tower (also a Web Port)
 - Sonic 3 AIR Web Port (basically stole it, but what didn't I steal on here anyways)
+- Sonic Mania Plus Web Port (again, just stole it, didn't even compile it myself)
 - EaglerCraft Client Selector (many different Clients included)
 
 Projects I'm working on
