@@ -1,6 +1,6 @@
 ### So I exist...
 
-... Yeah, I'm surprised as well, and I mostly port games to the web browser
+... Yeah, I'm surprised as well, and I mostly port games to the web browser, or modify and re-upload existing ports
 
 Why? because school is boring as hell, why else
 
