@@ -4,7 +4,7 @@
 
 Why? because school is boring as hell, why else
 
-My somewhat finished Projects include:
+My somewhat finished stolen Projects include:
 - Pizza Tower 1.1.0 Web Port (Noise Update)
 - April 2021 Build of Pizza Tower (also a Web Port)
 - Sonic 3 AIR Web Port (basically stole it, but what didn't I steal on here anyways)
