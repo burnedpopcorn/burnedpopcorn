@@ -15,7 +15,7 @@ My somewhat finished stolen Projects include:
 
 Projects I'm working on
 - Super Mario 64 Plus Web Port (a PoC has been made)
-- Pizza Tower Cheesed Up Web Port (maybe, might not happen)
+- Updating my other ports
 
 I also have some other random, miscellaneous projects which you can find in my Repositories Tab, so check them out as well as my Pinned
 :)
