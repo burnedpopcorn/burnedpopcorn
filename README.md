@@ -10,6 +10,7 @@ My somewhat finished stolen Projects include:
 - Sonic 2 Community's Cut (stole it, modified it, and that's it)
 - EaglerCraft Client Selector (many different Clients included)
 - WAD Commander Re-Upload (Wayback Machine the goat)
+- IndexedDB File Manager (barely seen any like it surprisingly)
 
 Projects I'm working on
 - Super Mario 64 Plus Web Port (a PoC has been made)
