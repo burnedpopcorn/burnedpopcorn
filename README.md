@@ -13,8 +13,7 @@ My somewhat finished stolen Projects include:
 - IndexedDB File Manager (barely seen any like it surprisingly)
 
 Projects I'm working on
-- Super Mario 64 Plus Web Port (a PoC has been made)
-- Updating my other ports
+- Updating my other ports (Mostly the Pizza Tower Port)
 
 I also have some other random, miscellaneous projects which you can find in my Repositories Tab, so check them out as well as my Pinned
 
