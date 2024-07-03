@@ -11,6 +11,7 @@ My somewhat finished stolen Projects include:
 - EaglerCraft Client Selector (many different Clients included)
 - WAD Commander Re-Upload (Wayback Machine the goat)
 - IndexedDB File Manager (barely seen any like it surprisingly)
+- Archiving Removed Chrome Web Store Extensions (and hosting Happy Friday from a web page)
 
 Projects I'm working on
 - Updating my other ports (Mostly the Pizza Tower Port)
