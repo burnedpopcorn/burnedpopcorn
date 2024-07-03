@@ -1,6 +1,5 @@
-## Unfortunate Update
-As of 6/15/24, I will be on an long hiatus for an unknown amount of time. This is due to an incident that left me with out a means of updating ANY of my projects, so don't expect any updates
-to roll out any time soon. My projects are NOT being discontinued, as I will immediately continue work on them whenever I get the chance
+## its a ME
+Did you know burned popcorn is bad for you and your health?
 
 My somewhat finished stolen Projects include:
 - Pizza Tower 1.1.0 Web Port (Noise Update)
