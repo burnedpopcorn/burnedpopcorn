@@ -1,5 +1,5 @@
 ## its a ME
-### Did you know burned popcorn is bad for you and your health?
+### Did you know burned popcorn is bad for your health?
 
 My somewhat finished stolen Projects include:
 - Pizza Tower 1.1.0 Web Port (Noise Update)
