@@ -4,7 +4,7 @@
 My somewhat finished stolen Projects include:
 - Pizza Tower 1.1.0 Web Port (Noise Update)
 - April 2021 Build of Pizza Tower (also a Web Port)
-- Pizza Tower CheesedUP Web Port (Works for the most part)
+- Pizza Tower CheesedUP Web Port (It might have cheese it it)
 - Sonic 3 AIR Web Port (basically stole it, but what didn't I steal on here anyways)
 - Sonic Mania Plus Web Port (again, just stole it, didn't even compile it myself)
 - Sonic 2 Community's Cut (stole it, modified it, and that's it)
