@@ -5,7 +5,7 @@ My somewhat finished stolen Projects include:
 - Pizza Tower 1.1.0 Web Port (Noise Update)
 - Pizza Tower CheesedUP Web Port (it might have cheese in it)
 - Pizza Tower Scoutdigo Web Port (still needs some work)
-- Sugary Spire Web Port (its even on Gx.GAMES!)
+- Sugary Spire Web Port (its even on GX.GAMES!)
 - FnaF All Stars Web Port (WIP, recreation of all 4 games)
 - Sonic 3 AIR Web Port (basically stole it, but what didn't I steal on here anyways)
 - Sonic Mania Plus Web Port (again, just stole it, didn't even compile it myself)
