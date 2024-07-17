@@ -10,6 +10,7 @@ My somewhat finished stolen Projects include:
 - Sonic 3 AIR Web Port (basically stole it, but what didn't I steal on here anyways)
 - Sonic Mania Plus Web Port (again, just stole it, didn't even compile it myself)
 - Sonic 2 Community's Cut (stole it, modified it, and that's it)
+- Sonic GDevelop Web Port (literally no one will care tho)
 - EaglerCraft Client Selector (many different Clients included)
 - WAD Commander Re-Upload (Wayback Machine the goat)
 - IndexedDB File Manager (barely seen any like it surprisingly)
