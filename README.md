@@ -21,4 +21,8 @@ Projects I'm working on
 
 I also have some other random, miscellaneous projects which you can find in my Repositories Tab, so check them out as well as my Pinned
 
+NEW DISCORD SERVER! Check it out!
+
+[![Discord Invite Link](https://theprojects.x10.mx/discord.jpg)](https://discord.gg/BJSkBEPU)
+
 :)
