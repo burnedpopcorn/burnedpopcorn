@@ -23,6 +23,6 @@ I also have some other random, miscellaneous projects which you can find in my R
 
 NEW DISCORD SERVER! Check it out!
 
-[![Discord Invite Link](https://theprojects.x10.mx/discord.jpg)](https://discord.gg/BJSkBEPU)
+[![Discord Invite Link](https://theprojects.x10.mx/discord.jpg)](https://discord.gg/3dPTpruHhc)
 
 :)
