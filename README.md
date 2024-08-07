@@ -26,4 +26,5 @@ You are your worst enemy, and no one else has or even could have ruined you the 
 also, if you want the Source Code for Cheesed Up, talk to me on Discord
 
 [![Discord Invite Link](https://theprojects.x10.mx/discord.jpg)](https://discord.gg/3dPTpruHhc)
+
 I also have some other random, miscellaneous projects which you can find in my Repositories Tab, so check them out as well as my Pinned
