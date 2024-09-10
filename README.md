@@ -16,9 +16,6 @@ My somewhat finished stolen Projects include:
 - IndexedDB File Manager (barely seen any like it surprisingly)
 - Archiving Removed Chrome Web Store Extensions (and hosting Happy Friday from a web page)
 
-### Also to loypoll
-screw you for taking down my Github repos for my Cheesed Up ports, and I'm never gonna stop making them/updating them.
-
 [![Discord Invite Link](https://theprojects.x10.mx/discord.jpg)](https://discord.gg/3dPTpruHhc)
 
 I also have some other random, miscellaneous projects which you can find in my Repositories Tab, so check them out as well as my Pinned
