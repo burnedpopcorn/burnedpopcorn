@@ -15,6 +15,4 @@ Here's my Discord Server, where Updates for new Web Ports and other stuff are an
 
 ![Discord Banner 3](https://discord.com/api/guilds/1264734308648747068/widget.png?style=banner3)
 
-[![Discord Invite Link](https://theprojects.x10.mx/discord.jpg)](https://discord.gg/3dPTpruHhc)
-
 I also have some other random, miscellaneous projects which you can find in my Repositories Tab, so check them out as well as my Pinned
