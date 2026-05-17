@@ -1,18 +1,13 @@
-## its-a ME
-### Did you know burned popcorn is bad for your health?
-
-My somewhat finished stolen Projects include:
-
-Many Web Ports, including the Noise Update, Cheesed Up b1.3.1, Scoutdigo, Sugary Spire, and MANY more
-> All are Listed [HERE](https://burnedwebsite.vercel.app/projects/)
-
-Many Decompilations of Pizza Tower Mods
-> All are Listed [HERE](https://rentry.co/pt-decomps-n-code)
->
-> This includes All Source Code I've ever Found intresting, all archived for you :)
-
-Here's my Discord Server, where Updates for new Web Ports and other stuff are announced:
-
-[![Discord Banner 3](https://discord.com/api/guilds/1264734308648747068/widget.png?style=banner3)](https://discord.gg/3dPTpruHhc)
-
-I also have some other random, miscellaneous projects which you can find in my Repositories Tab, so check them out as well as my Pinned
+hey
+<br>
+it's been a good run
+<br>
+but all good things come to an end
+<br>
+and i'm moving on to greener pastures
+<br><br>
+i wish y'all the best, and i hope you've enjoyed these old projects of mine
+<br><br>
+All Web Port Links: https://www.autistici.org/burnedprojects/
+<br>
+Github Alt: https://github.com/dummyguy360
